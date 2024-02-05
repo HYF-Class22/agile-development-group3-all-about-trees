@@ -1,13 +1,6 @@
 # All About Trees
 
 Trees play a significant role in our lives by providing us
-with oxygen, improving air quality, supporting biodiversity,
- and providing resources that are essential for human life and
- the environment. If you're a parent, who
-acknowledges the importance of trees for our planet, you probably
-understand the role trees play in children's lives. Your appreciation
-for nature can have a positive impact on a child's growth and teach them
-about caring for the planet in their younger years 🌳.
 
 ## General info
 
