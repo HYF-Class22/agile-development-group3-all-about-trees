@@ -1,14 +1,20 @@
 # All About Trees
 
-Trees play a significant role in our lives by providing us
+> all about trees is a simple website for parents to
+
+## Table of contents
+
+- [All About Trees](#all-about-trees)
+  - [Table of contents](#table-of-contents)
+  - [General info](#general-info)
+  - [Photo](#photo)
+  - [Technologies](#technologies)
+  - [Status](#status)
+  - [Contact](#contact)
 
 ## General info
 
-All about trees is a simple website for parents to
-Introducing children to trees and encouraging
-them to participate in tree-planting activities
-is a step towards promoting an eco-friendly lifestyle
-in their early years 🌳.
+> All About Trees Is a Simple Website for Parents To...
 
 ## Photo
 
@@ -16,7 +22,7 @@ in their early years 🌳.
 
 ![awareness of planting trees](./planning/plantpicture2.jpg)
 
-## TOOLS AND TECHNOLOGIES
+## Technologies
 
 - **Node 20.1.0:** hey are responsible for validating transactions
 - and adding new blocks to the chain.
@@ -29,16 +35,10 @@ in their early years 🌳.
 - **Linting Checks:** Ensuring code consistency and quality.
 - **agile methodology:** Managing tasks and tracking progress.
 
-![awareness of planting trees](./planning/codingpicture1.gif)
-
 ## Status
 
-Project is: Loading.....
+Project is: _in progress_
 
-## Contact us [Class22-Group-3](https://github.com/HYF-Class22/agile-development-group3-all-about-trees)
+## Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/HYF-Class22/agile-development-group3-all-about-trees)
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
----
+By [group-3-agile-methodology]
