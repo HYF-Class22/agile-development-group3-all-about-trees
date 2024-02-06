@@ -1,7 +1,11 @@
 @import url("./something.css");
 
+body {
+  background-color: #faf1e4;
+}
+
 nav {
-  background-color: #cedebd; /* Change this to your desired background color */
+  background-color: #cedebd;
   padding: 10px;
   text-align: center;
 }
