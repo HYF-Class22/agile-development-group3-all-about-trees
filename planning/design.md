@@ -14,10 +14,11 @@ to the target audience.
 
 **Color Palette:** Utilizing a calming and natural color palette:
 
-- #FAF1E4, #CEDEBD, #9EB384, #435334
-  [Color Pattern Reference](https://colorhunt.co/palette/faf1e4cedebd9eb384435334)
+| Color Code                          | Image                                    |
+| ----------------------------------- | ---------------------------------------- |
+| #FAF1E4 , #CEDEBD, #9EB384, #435334 | ![alt text](../public/color_palette.png) |
 
-## Wireframe(s)
+## Wireframe
 
 <!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
 
