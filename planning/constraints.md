@@ -10,7 +10,7 @@ Some boundaries around our project.
 
 - Technical challenges that may arise during the HTML and CSS coding process.
 - Limited expertise in design and coding
-- amount of time available to work on the project
+- Amount of time available to work on the project
 
 ## Internal: Voluntary
 
