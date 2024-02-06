@@ -17,7 +17,7 @@
 
 ---
 
-# Parents
+## Parents
 
 - **Bio**: Haftu is a father who wants to teach his kids about trees and their
   role in maintaining sustainable environment.
