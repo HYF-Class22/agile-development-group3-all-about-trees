@@ -1,6 +1,14 @@
 # All About Trees
 
-> all about trees is a simple website for parents to
+All about trees is a simple website for parents to
+
+Introducing children to trees and encouraging
+
+them to participate in tree-planting activities
+
+is a step towards promoting an eco-friendly lifestyle
+
+in their early years 🌳.
 
 ## Table of contents
 
@@ -14,7 +22,19 @@
 
 ## General info
 
-> All About Trees Is a Simple Website for Parents To...
+If you're a parent, who acknowledges
+
+the importance of trees for our planet
+
+you probably understand the role trees
+
+play in children's lives. Your appreciation
+
+for nature can have a positive impact
+
+on a child's growth and teach them
+
+about caring for the planet in their younger years
 
 ## Photo
 
