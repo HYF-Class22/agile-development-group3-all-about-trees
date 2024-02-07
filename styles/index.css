@@ -14,3 +14,29 @@
   display: table;
   clear: both;
 }
+
+body {
+  background-color: #faf1e4;
+}
+
+nav {
+  background-color: #cedebd;
+  padding: 10px;
+  text-align: center;
+}
+
+nav li {
+  list-style: none;
+  display: inline;
+  margin-right: 50px;
+}
+
+nav a {
+  color: #435334;
+  text-align: center;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #faf1e4;
+}
