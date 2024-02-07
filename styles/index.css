@@ -26,19 +26,28 @@ nav a:hover {
   color: #faf1e4;
 }
 
-article {
-  padding: 20px;
+.introduction {
+  padding-top: 20px;
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 600px;
   text-align: center;
 }
 
-article h2 {
+.introduction h2 {
   font-size: 24px;
   color: #435334;
 }
 
-article p {
+.introduction p {
   font-size: 18px;
   color: #9eb384;
+}
+
+.main-text p {
+  font-size: 18px;
+  color: #9eb384;
+  padding-top: 0;
+  margin: 0 auto;
+  max-width: 800px;
+  text-align: center;
 }
