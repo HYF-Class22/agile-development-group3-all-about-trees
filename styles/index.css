@@ -1,5 +1,9 @@
 @import url("./something.css");
 
+body {
+  background-color: #faf1e4;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -13,10 +17,6 @@
   content: "";
   display: table;
   clear: both;
-}
-
-body {
-  background-color: #faf1e4;
 }
 
 nav {
@@ -39,4 +39,35 @@ nav a {
 
 nav a:hover {
   color: #faf1e4;
+}
+
+.introduction,
+.main-text {
+  margin: 0 auto;
+  max-width: 800px;
+  text-align: center;
+}
+
+.introduction {
+  padding-top: 20px;
+}
+
+.introduction h2 {
+  font-size: 24px;
+  color: #435334;
+}
+
+.introduction p,
+.main-text p {
+  font-size: 18px;
+  color: #9eb384;
+}
+
+.main-text {
+  padding-top: 0;
+}
+
+.main-text p {
+  margin-top: 0;
+  margin-bottom: 0;
 }
