@@ -14,3 +14,7 @@
   display: table;
   clear: both;
 }
+
+img {
+  width: 300px;
+}
