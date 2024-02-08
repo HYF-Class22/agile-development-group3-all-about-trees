@@ -1,5 +1,24 @@
 @import url("./something.css");
 
+.header {
+  display: flex;
+  align-items: center;
+  background-color: #cedebd;
+  padding: 30px;
+}
+
+.logo {
+  margin-left: 20px;
+  max-height: 80%;
+  width: auto;
+}
+
+h1 {
+  font-size: 60px;
+  margin: auto;
+  color: #435334;
+}
+
 body {
   background-color: #faf1e4;
 }
@@ -20,7 +39,8 @@ body {
 }
 
 img {
-  width: 300px;}
+  width: 300px;
+}
 
 nav {
   background-color: #cedebd;
