@@ -38,6 +38,10 @@ body {
   clear: both;
 }
 
+img {
+  width: 300px;
+}
+
 nav {
   background-color: #cedebd;
   padding: 10px;
