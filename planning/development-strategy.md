@@ -1,10 +1,10 @@
-# Project Name
+# Development Strategy
 
 <!-- describe your project -->
 
 ---
 
-## Setup
+## 0. Setup
 
 <!-- what code do you need just to open the project? this might include:
   - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
@@ -12,44 +12,88 @@
   - rendering the initial user interface
 -->
 
+- create a new repo form the template `template-html-css`
+- add colleagues
+- turn on github pages and give them `write` access
+- protect `main` branch
+
 ---
 
 <!-- copy this section once for each must-have user story -->
 
-## user story
+## 1. Title
 
-<!-- each issue created from this section will have the `for: user story` label -->
+### As a user I can read the title of the page
 
-> "as a ... i can ... so that ..."
+- This user story is developed on branch `headerHtml` and `headerCss`
 
-<!-- write any extra notes or description -->
+- This branch is merged to `main` branch after completion.
 
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+### html
 
-### Logic: user story
+- add `header` tag
+- add `h1` for the page title
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### css
 
-### Interface: user story
+- add class`header` to the `header`
+- make the display `flex` and add `align-items`, `background-color` and
+  `padding`
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+## 2. Introduction
 
-### Interaction: user story
+### As a user I can read an introduction to this project
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- This user story is developed on branch `add-article-html` and
+  `style-article-css`
 
-### Documentation: user story
+- This branch is merged to `main` branch after completion.
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### html
+
+- add `article` tags
+- add `h2` for the introduction title
+
+### css
+
+- add class`introduction` and `main-text` to each `article` tags
+- align the articles centered and add `margin`, `padding`, `max-width`,
+  `font-size` and `color`
+
+## 3. main text with photos
+
+### As a user I can learn about trees
+
+- This user story is developed on branch `add-article-html`, `style-article-css`
+  and `add-images`
+
+- This branch is merged to `main` branch after completion.
+
+### html
+
+- add `p` tag for the explanations
+- add `section` tag
+- add `figure` tag
+- add `img` tag for the photo
+
+### css
+
+- add `width` to the `img` tag
+- make the display `table` for the `img`
+
+## 4. Further readings
+
+### As a user I can learn even more about trees
+
+- This user story is developed on branch
+
+- This branch is merged to `main` branch after completion.
+
+### html
+
+- add `a` tag for the link for the project page
+- add `figcaption` tag
+
+### css
+
+- make the display `table`
