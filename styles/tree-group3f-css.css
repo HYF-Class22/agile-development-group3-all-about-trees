@@ -1,4 +1,11 @@
 .miracle {
+  text-align: center;
+  padding: 3px;
   background-color: blue;
   color: white;
+  position: absolute;
+  font-size: 22px;
+  bottom: 0;
+  left: 0;
+  transform: translate(calc(50vw - 50%), -50%);
 }
