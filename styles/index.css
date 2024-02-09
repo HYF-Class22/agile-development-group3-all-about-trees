@@ -60,6 +60,10 @@ nav a {
   text-decoration: none;
 }
 
+footer a {
+  padding: 20px;
+}
+
 nav a:hover {
   color: #faf1e4;
 }
@@ -102,7 +106,7 @@ footer {
   justify-content: center;
   padding: 10px;
   background-color: #cedebd;
-  color: white;
+  color: black;
   position: relative;
   font-size: 40px;
   bottom: 0;
