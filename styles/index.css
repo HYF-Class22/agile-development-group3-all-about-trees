@@ -63,6 +63,10 @@ nav a {
   text-decoration: none;
 }
 
+footer a {
+  padding: 20px;
+}
+
 nav a:hover {
   color: #faf1e4;
 }
@@ -99,12 +103,15 @@ nav a:hover {
 }
 
 footer {
+  display: flex;
+  align-items: center;
   text-align: center;
-  padding: 3px;
+  justify-content: center;
+  padding: 10px;
   background-color: #cedebd;
-  color: white;
+  color: black;
   position: relative;
-  font-size: 22px;
+  font-size: 40px;
   bottom: 0;
   left: 0;
   transform: translate(calc(50vw - 50%), -50%);
