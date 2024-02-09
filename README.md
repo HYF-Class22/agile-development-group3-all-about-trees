@@ -16,6 +16,7 @@ in their early years 🌳.
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Photo](#photo)
+  - [screenshot](#screenshot)
   - [Technologies](#technologies)
   - [Status](#status)
   - [Contact](#contact)
@@ -41,6 +42,12 @@ about caring for the planet in their younger years
 ![awareness of planting trees](./planning/plant.jpg)
 
 ![awareness of planting trees](./planning/plantpicture2.jpg)
+
+## screenshot
+
+![screenshot1](./public/screenshot1.png)
+
+![screenshot2](./public/screenshot2.png)
 
 ## Technologies
 
